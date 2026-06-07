@@ -1,7 +1,7 @@
 # Hi, I'm Santanu Banerjee 
 ### Lead Multi-Cloud DevOps, SRE, & Platform Engineer
 
-Custom-built for high-scale reliability, multi-cloud architecture, and automated continuous delivery. Over the last **12+ years**, I have focused on bridging the gap between development and resilient operations across global enterprises. 
+I am an engineering professional with **12+ years of IT experience** specializing in multi-cloud infrastructure engineering, enterprise-scale CI/CD architectures, and advanced SRE practices[cite: 1]. My focus is on building resilient, scalable platforms that bridge the gap between application development and highly available cloud operations[cite: 1]. 
 
 🌐 **Based in India** 
 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
