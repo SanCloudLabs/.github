@@ -1,5 +1,9 @@
 # Hi, I'm Santanu Banerjee 
 ### Lead Multi-Cloud DevOps, SRE, & Platform Engineer
+[![Terraform](https://img.shields.io/badge/Terraform-%235C4EE5.svg?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 I am an engineering professional with **12+ years of IT experience** specializing in multi-cloud infrastructure engineering, enterprise-scale CI/CD architectures, and advanced SRE practices[cite: 1]. My focus is on building resilient, scalable platforms that bridge the gap between application development and highly available cloud operations[cite: 1]. 
 
