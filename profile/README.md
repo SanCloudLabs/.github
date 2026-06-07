@@ -1,4 +1,4 @@
-# Hi, I'm Santanu Banerjee 👋
+# Hi, I'm Santanu Banerjee 
 ### Lead Multi-Cloud DevOps, SRE, & Platform Engineer
 
 Custom-built for high-scale reliability, multi-cloud architecture, and automated continuous delivery. Over the last **12+ years**, I have focused on bridging the gap between development and resilient operations across global enterprises. 
