@@ -3,7 +3,8 @@
 
 Custom-built for high-scale reliability, multi-cloud architecture, and automated continuous delivery. Over the last **12+ years**, I have focused on bridging the gap between development and resilient operations across global enterprises. 
 
-🌐 **Based in India** | 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
+🌐 **Based in India** 
+🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
 
 ---
 
@@ -55,8 +56,8 @@ Custom-built for high-scale reliability, multi-cloud architecture, and automated
 I am actively open to discussing high-impact remote engineering contracts, architecture consultations, or senior individual contributor roles with teams across North America and Europe.
 
 *   💼 **LinkedIn:** [linkedin.com/in/shantanubanerjee](https://www.linkedin.com/in/shantanubanerjee)
-*   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com)
-*   📱 **Phone:** +91-8810437360
+*   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com) [cite: 1]
+*   📱 **Phone:** *Available upon request for interviews, intro calls, or project syncs.* 
 
 ---
 <p align="center"><i>"Automate everything except the human connection."</i></p>
