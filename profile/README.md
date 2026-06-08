@@ -37,12 +37,12 @@ I have 12+ years of experience working with Azure and AWS, focusing on infrastru
 
 ---
 
-## 💼 Core Competencies Demonstrated in My Repositories
+## 💻 What I Focus On in My Repositories
 
-*   **Production IaC:** Terraform-based IaC, modular and reusable, with focus on networking and security, (VNets, Subnets, Private Link, Firewalls, NSGs).
-*   **Enterprise CI/CD:** Secure, YAML-based pipelines integrating DevSecOps scanning tools (SonarCloud, Veracode) for robust microservices deployments.
-*   **Event-Driven Cloud Architectures:** Designing scalable decoupled integrations using Azure Functions, Service Bus, Event Grid, and API Management (APIM).
-*   **FinOps & Resilience:** Cost optimization modeling alongside architecting tight RPO/RTO strategies via automated backups and disaster recovery runbooks.
+*   **Infrastructure as Code (IaC):** I write modular, reusable Terraform configurations focused heavily on production-level networking and security. This includes setting up isolated Hub-and-Spoke networks, VNets, Subnets, Private Links, Firewalls, and tight NSG rules.
+*   **CI/CD & DevSecOps:** I build clean, secure YAML pipelines (using GitHub Actions and Azure DevOps) that do not just deploy code, but integrate automated scanning tools like SonarCloud and Veracode to catch vulnerabilities before microservices reach production.
+*   **Integration & Event-Driven Architecture:** I design decoupled, high-throughput backend integrations utilizing Azure Functions, Service Bus, Event Grid, and API Management (APIM).
+*   **FinOps & Disaster Recovery:** I ensure infrastructure is built with cost optimization in mind while maintaining strict resilience—implementing automated backups and disaster recovery runbooks to hit tight RPO/RTO targets.
 
 ---
 
