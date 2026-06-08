@@ -1,25 +1,27 @@
 # Hi, I'm Santanu Banerjee 
-### Lead Multi-Cloud DevOps, SRE, & Platform Engineer
+### Senior DevOps / SRE & Cloud Engineer (Azure & AWS)
 [![Terraform](https://img.shields.io/badge/Terraform-%235C4EE5.svg?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-I am an engineering professional with **12+ years of IT experience** specializing in multi-cloud infrastructure engineering, enterprise-scale CI/CD architectures, and advanced SRE practices. My focus is on building resilient, scalable platforms that bridge the gap between application development and highly available cloud operations. 
+I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, and system reliability. 
 
 🌐 **Based in India** 
 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
 
 ---
 
-## 🚀 Professional Snapshot
 
-*   **Experience & Impact:** 12+ years architecting multi-cloud infrastructures (Azure & AWS), orchestrating container ecosystems, and driving infrastructure-as-code automation.
-*   **Modern Engineering Velocity:** I use tools like GitHub Copilot to improve development speed and productivity.
-*   **Migration Expertise:** Proven record of high-stakes cloud transformations, including **On-Premises to AWS Outpost** transitions and deep Azure lift-and-shift / modernization initiatives.
-*   **SRE Mindset:** Passionate about operational maturity—building distributed observability networks to aggressively lower MTTR, and engineering automated self-healing workflows.
+## Experience Highlights
 
----
+- 12+ years working on Azure and AWS environments
+- Strong experience in Terraform, CI/CD pipelines, and automation
+- Worked on cloud migrations (on-prem to AWS / Azure)
+- Hands-on with Kubernetes, monitoring, and production support
+- Focus on improving reliability, performance, and operational efficiency
+``
+
 
 ## 🛠️ Technical Ecosystem
 
@@ -37,7 +39,7 @@ I am an engineering professional with **12+ years of IT experience** specializin
 
 ## 💼 Core Competencies Demonstrated in My Repositories
 
-*   **Production IaC:** Modular, reusable Terraform and ARM blueprints emphasizing strict hybrid networking constraints (VNets, Subnets, Private Link, Firewalls, NSGs).
+*   **Production IaC:** Terraform-based IaC, modular and reusable, with focus on networking and security, (VNets, Subnets, Private Link, Firewalls, NSGs).
 *   **Enterprise CI/CD:** Secure, YAML-based pipelines integrating DevSecOps scanning tools (SonarCloud, Veracode) for robust microservices deployments.
 *   **Event-Driven Cloud Architectures:** Designing scalable decoupled integrations using Azure Functions, Service Bus, Event Grid, and API Management (APIM).
 *   **FinOps & Resilience:** Cost optimization modeling alongside architecting tight RPO/RTO strategies via automated backups and disaster recovery runbooks.
