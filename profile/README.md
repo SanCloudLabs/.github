@@ -5,7 +5,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-I am an engineering professional with **12+ years of IT experience** specializing in multi-cloud infrastructure engineering, enterprise-scale CI/CD architectures, and advanced SRE practices[cite: 1]. My focus is on building resilient, scalable platforms that bridge the gap between application development and highly available cloud operations[cite: 1]. 
+I am an engineering professional with **12+ years of IT experience** specializing in multi-cloud infrastructure engineering, enterprise-scale CI/CD architectures, and advanced SRE practices. My focus is on building resilient, scalable platforms that bridge the gap between application development and highly available cloud operations. 
 
 🌐 **Based in India** 
 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
@@ -15,7 +15,7 @@ I am an engineering professional with **12+ years of IT experience** specializin
 ## 🚀 Professional Snapshot
 
 *   **Experience & Impact:** 12+ years architecting multi-cloud infrastructures (Azure & AWS), orchestrating container ecosystems, and driving infrastructure-as-code automation.
-*   **Modern Engineering Velocity:** Pioneer in utilizing **AI-assisted workflows** (GitHub Copilot, Custom AI Agents) paired with **Spec-Driven Development** to accelerate code and manifest generation velocity by 30%+.
+*   **Modern Engineering Velocity:** I use tools like GitHub Copilot to improve development speed and productivity.
 *   **Migration Expertise:** Proven record of high-stakes cloud transformations, including **On-Premises to AWS Outpost** transitions and deep Azure lift-and-shift / modernization initiatives.
 *   **SRE Mindset:** Passionate about operational maturity—building distributed observability networks to aggressively lower MTTR, and engineering automated self-healing workflows.
 
@@ -60,7 +60,7 @@ I am an engineering professional with **12+ years of IT experience** specializin
 I am actively open to discussing high-impact remote engineering contracts, architecture consultations, or senior individual contributor roles with teams across North America and Europe.
 
 *   💼 **LinkedIn:** [linkedin.com/in/shantanubanerjee](https://www.linkedin.com/in/shantanubanerjee)
-*   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com) [cite: 1]
+*   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com)
 *   📱 **Phone:** *Available upon request for interviews, intro calls, or project syncs.* 
 
 ---
