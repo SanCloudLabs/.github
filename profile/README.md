@@ -9,6 +9,8 @@
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white)](https://grafana.com/)
+[![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
+
 
 I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, and system reliability and migrating legacy infrastructures to secure cloud-native environments. 
 
