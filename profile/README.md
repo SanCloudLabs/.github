@@ -5,7 +5,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, and system reliability. 
+I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, and system reliability and migrating legacy infrastructures to secure cloud-native environments. 
 
 🌐 **Based in India** 
 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
