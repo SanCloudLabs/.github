@@ -12,7 +12,7 @@
 [![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
 
 
-I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, and system reliability and migrating legacy infrastructures to secure cloud-native environments. 
+I have 12+ years of experience working with Azure and AWS, focusing on infrastructure automation, CI/CD pipelines, and reliable cloud platforms. I enjoy solving real-world problems around scalability, monitoring, system reliability and migrating legacy infrastructures to secure cloud-native environments. 
 
 🌐 **Based in India** 
 🌍 **Available for Remote Contracts & Global Full-Time Roles (US, Canada, Europe, UK)**
@@ -66,11 +66,11 @@ I have 12+ years of experience working with Azure and AWS, focusing on infrastru
 
 ## 📨 Connect With Me
 
-I am open to remote roles and contract opportunities with teams across North America and Europe.
+I am open to remote roles and contract opportunities with teams across US, Canada, UK and Europe.
 
 *   💼 **LinkedIn:** [linkedin.com/in/shantanubanerjee](https://www.linkedin.com/in/shantanubanerjee)
 *   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com)
 *   📱 **Phone:** *Available upon request for interviews, intro calls, or project syncs.* 
 
 ---
-<p align="center"><i>"Automate everything except the human connection."</i></p>
+
