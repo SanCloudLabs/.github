@@ -57,7 +57,7 @@ I am an engineering professional with **12+ years of IT experience** specializin
 
 ## 📨 Connect With Me
 
-I am actively open to discussing high-impact remote engineering contracts, architecture consultations, or senior individual contributor roles with teams across North America and Europe.
+I am open to remote roles and contract opportunities with teams across North America and Europe.
 
 *   💼 **LinkedIn:** [linkedin.com/in/shantanubanerjee](https://www.linkedin.com/in/shantanubanerjee)
 *   📧 **Email:** [saan123@gmail.com](mailto:saan123@gmail.com)
